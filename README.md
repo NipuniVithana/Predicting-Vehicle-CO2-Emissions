@@ -17,6 +17,6 @@ In this project, we:
 - Python 3.x
 - Libraries: numpy, pandas, scikit-learn
 
-![Screenshot (402)](https://github.com/NipuniVithana/Predicting-Vehicle-CO2-Emissions/assets/99274261/3ab22a0f-dc83-499d-ba17-23d10be0aa8d)
+![Screenshot (402)](https://github.com/NipuniVithana/Predicting-Vehicle-CO2-Emissions/assets/99274261/493325f9-883f-49b8-81e3-f666b7b82754)
 
 
